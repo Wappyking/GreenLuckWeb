@@ -2,6 +2,7 @@
   "name": "greenluckweb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.greenlucktips.com",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.17",
     "@testing-library/dom": "^10.4.0",
